@@ -1,0 +1,12 @@
+{
+  "mods": [
+    {
+      "id": "jolly_decorations",
+      "name": "Jolly's Decorations",
+      "author": "Jollyname",
+      "version": "1.0.0",
+      "description": "Adds decorative parts to the game.",
+      "downloadUrl": "https://github.com/Example/BetterGraphics/releases/download/v1.0.0/BetterGraphics.zip"
+    }
+  ]
+}
