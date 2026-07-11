@@ -12,9 +12,9 @@
       "id": "stellarDriveFovMod",
       "name": "StellarDrive FOV Mod",
       "author": "elytrapro2000",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "A mod that allows you to change the FOV of the camera in the options menu.",
-      "downloadUrl": "https://github.com/elytrapro2000/stellarDriveFovMod/releases/download/v1.0.0/stellarDriveFovMod.zip"
+      "downloadUrl": "https://github.com/elytrapro2000/stellarDriveFovMod/releases/download/v1.0.1/stellarDriveFovMod.zip"
     }
   ]
 }
