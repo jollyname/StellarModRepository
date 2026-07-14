@@ -23,7 +23,7 @@ If these requirements are not met, the Mod Manager will not be able to load your
 
 ```text
 YourMod.zip
-├── <mod_id>.json  <-- Metadata file (MUST match the mod's ID exactly, e.g., jolly_decorations.json)
+├── mod.json       <-- Metadata file
 ├── Mods/          <-- Folder containing the mod's .dll files
 └── Plugins/       <-- Folder containing plugin files (if you need some)
 
