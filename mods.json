@@ -2,15 +2,18 @@
   "mods": [
     {
       "author": "Jollyname",
-      "repo": "JollyDecorations"
+      "repo": "JollyDecorations",
+      "metadata": "Raw"
     },
     {
       "author": "elytrapro2000",
-      "repo": "stellarDriveFovMod"
+      "repo": "stellarDriveFovMod",
+      "metadata": "stellarDriveFovMod"
     },
     {
       "author": "jollyname",
-      "repo": "StellarDrive-HardcoreMod"
+      "repo": "StellarDrive-HardcoreMod",
+      "metadata": "Raw"
     }
   ]
 }
