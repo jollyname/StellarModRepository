@@ -19,6 +19,11 @@
       "author": "jollyname",
       "repo": "StellarDrive-SprintMod",
       "metadata": "Mod"
+    },
+    {
+      "author": "jollyname",
+      "repo": "StellarDrive-AutoSaveMod",
+      "metadata": "Mod"
     }
   ]
 }
