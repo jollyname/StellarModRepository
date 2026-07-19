@@ -3,7 +3,7 @@
     {
       "author": "Jollyname",
       "repo": "JollyDecorations",
-      "metadata": "Raw"
+      "metadata": "Mod"
     },
     {
       "author": "elytrapro2000",
@@ -13,7 +13,12 @@
     {
       "author": "jollyname",
       "repo": "StellarDrive-HardcoreMod",
-      "metadata": "Raw"
+      "metadata": "Mod"
+    },
+    {
+      "author": "jollyname",
+      "repo": "StellarDrive-SprintMod",
+      "metadata": "Mod"
     }
   ]
 }
