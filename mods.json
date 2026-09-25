@@ -17,6 +17,11 @@
     },
     {
       "author": "Krunk-theduck",
+      "repo": "StellarDriveBuildPlus",
+      "metadata": "Mods"
+    },
+    {
+      "author": "Krunk-theduck",
       "repo": "StellarUnlock",
       "metadata": "Mods"
     },
@@ -28,6 +33,11 @@
     {
       "author": "Krunk-theduck",
       "repo": "StellarDriveElectrolyzer",
+      "metadata": "Mods"
+    },
+    {
+      "author": "Krunk-theduck",
+      "repo": "StellarDriveUpgradeTable",
       "metadata": "Mods"
     }
   ]
